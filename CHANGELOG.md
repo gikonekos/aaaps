@@ -2,11 +2,26 @@
 
 人間が読むための改訂履歴です。Gitのコミット履歴とは別に、「何が変わったか」を要約します。
 
-## 翻訳追加（2026年7月11日、v1.0公開後）
+## v1.0.2（2026年7月12日）
+- `evidence/kindle-2020.md` を新設。2020年公表のKindle本「あやしいわーるど＠暫定【過去ログ】2002年08月29日」の奥付に「#AAAP Licensed」の表記があることを記録。GitHub公開（2026年）より6年前から同表記が継続利用されていたことを示す資料。
+- 表紙制作に用いられたコミPo!（パッケージ版、2015年購入）について、製品版の商用利用が規約上問題ないことを確認し付記。
+- `evidence/qptn-fc2.md` を新設。2013年、活動サイトqptn.x.fc2.comの投稿内に、アスキーアートとして「#AAAP」の文字列が埋め込まれていたことを記録。同サイトのハンドル名「qptn」が2026年のX告知アカウント@qptnと同一であることも付記。原文（テキスト）を正確に転記。
+- `evidence/README.md` に両ファイルへの参照を追加。
+
+## v1.0.1（2026年7月11日）
 - `en/GOVERNANCE.md`・`en/CHANGELOG.md`・`en/CREDITS.md`・`en/evidence.md` を新設。
 - `en/HISTORY.md` を新設。全文訳ではなく要約版とし、冒頭に「日本語版が正本、詳細は日本語を参照」の旨を明記。
 - README.md / en/README.md の構成表を更新し、各英語版へのリンクを追加。
-- v1.0本体（AAAPS-v1.md等）の内容には変更なし。
+- `evidence/aaap-articles-draft.md` を新設。2005年の「アスキーアート保護協会（仮）」定款草案について記録。当該草案は本家「NPO法人アスキーアート保護協会（AAAP）」自体の定款ではなく、別の有志団体によるものである旨を明記。
+- `evidence/netts-japan-email.md` を新設。2005年のネッツジャパン社とのメールのやり取りについて、Wikipediaでは「リンク切れ」とされていたが、atwiki上に現存していることを確認。2019年時点のWayback Machineスナップショットも合わせて記録し、長期間存在し続けていたことを確認。
+- `evidence/netts-japan-email-full.md`・`evidence/aaap-articles-draft-full.md` を新設。上記2件の全文を原文のまま保存し、要約版から相互参照リンクを追加。
+- `evidence/release.md` を新設。v1.0公開時（GitHub push・Wayback Machineスナップショット・X／Facebook告知）の記録を追加。
+- `evidence/README.md` に上記各ファイルへの参照を追加。
+- v1.0本体（AAAPS-v1.md等の規範）の内容には変更なし。
+
+## v1.0
+First public release.
+- ChatGPTさんの最終査読を受け、軽微な追記を反映：en/README.mdに「canonical documents」を一度だけ併記、LICENSE.mdに"This file exists for repository tooling compatibility."を追記。
 
 ## draft0.1
 - 初版。単一ファイルの規約案（Gemini草案ベース）。
@@ -44,10 +59,6 @@
 - `LICENSE.md` を新設。GitHubのライセンス検出に対応する入口ファイルとし、本文は「AAAPS-v1.mdが正本」である旨の案内に限定。
 - GOVERNANCE.mdに「AIレビューの位置づけ」を2行で追加（複数生成AIの査読を参考としたが、最終判断は編集者が行う旨）。
 - README.mdの構成表にLICENSE.mdを追加。
-
-## v1.0
-First public release.
-- ChatGPTさんの最終査読を受け、軽微な追記を反映：en/README.mdに「canonical documents」を一度だけ併記、LICENSE.mdに"This file exists for repository tooling compatibility."を追記。
 
 ---
 最新改訂日：2026年7月11日
