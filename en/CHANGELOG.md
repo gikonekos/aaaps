@@ -5,7 +5,7 @@
 
 A human-readable revision history, summarizing "what changed" separately from the Git commit history.
 
-## Translation addition (after the v1.0 release)
+## Translation addition (2026-07-11, after the v1.0 release)
 - Added `en/GOVERNANCE.md`, `en/CHANGELOG.md`, `en/CREDITS.md`, and `en/evidence.md`.
 - Added `en/HISTORY.md` as a summary rather than a full translation, noting at the top that the Japanese version is authoritative and should be consulted for full detail.
 - Updated the file tables in README.md / en/README.md with links to each English document.
@@ -53,4 +53,4 @@ First public release.
 - Following ChatGPT's final review, incorporated minor additions: mentioned "canonical documents" once in en/README.md, and added "This file exists for repository tooling compatibility." to LICENSE.md.
 
 ---
-Last updated: 2026-07-07
+Last updated: 2026-07-11

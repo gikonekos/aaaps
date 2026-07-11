@@ -29,4 +29,4 @@ The Japanese-language files in the repository root are authoritative (the "canon
 
 ---
 Author: MOTOI Kenkichi (Gikoneko)
-Last updated: 2026-07-07
+Last updated: 2026-07-11

@@ -2,7 +2,7 @@
 
 人間が読むための改訂履歴です。Gitのコミット履歴とは別に、「何が変わったか」を要約します。
 
-## 翻訳追加（v1.0公開後）
+## 翻訳追加（2026年7月11日、v1.0公開後）
 - `en/GOVERNANCE.md`・`en/CHANGELOG.md`・`en/CREDITS.md`・`en/evidence.md` を新設。
 - `en/HISTORY.md` を新設。全文訳ではなく要約版とし、冒頭に「日本語版が正本、詳細は日本語を参照」の旨を明記。
 - README.md / en/README.md の構成表を更新し、各英語版へのリンクを追加。
@@ -50,4 +50,4 @@ First public release.
 - ChatGPTさんの最終査読を受け、軽微な追記を反映：en/README.mdに「canonical documents」を一度だけ併記、LICENSE.mdに"This file exists for repository tooling compatibility."を追記。
 
 ---
-最新改訂日：2026年7月7日
+最新改訂日：2026年7月11日

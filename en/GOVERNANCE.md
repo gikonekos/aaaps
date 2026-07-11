@@ -38,4 +38,4 @@ Because these go to the core of the license, they are not settled by AI review a
 This governance document defines operational procedures; it does not define the rights and obligations of users. For rights and obligations, [AAAPS-v1.md](../AAAPS-v1.md) governs.
 
 ---
-Last updated: 2026-07-07
+Last updated: 2026-07-11

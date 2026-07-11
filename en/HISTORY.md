@@ -35,4 +35,4 @@ This project does not claim rights over the original "Gikoneko" character itself
 "AAAP" is a name chosen in tribute to a now-dissolved voluntary association / NPO, the "ASCII Art Protection Association," which was active around the time of the Nomaneko controversy. "#AAAP" as used by this project does not refer to any current legal entity; it is an unofficial community hashtag used in tribute to that dissolved organization.
 
 ---
-Last updated: 2026-07-07
+Last updated: 2026-07-11

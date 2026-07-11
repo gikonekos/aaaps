@@ -19,4 +19,4 @@ These materials are supporting/contextual records, not a legal determination in 
 Materials are preserved in their original form (screenshots, header information, etc.) wherever possible and are not altered, in keeping with this project's "do not tamper with the archive" principle. This applies equally to unfavorable records (e.g. category deletions) as to favorable ones.
 
 ---
-Last updated: 2026-07-07
+Last updated: 2026-07-11
