@@ -26,7 +26,7 @@
 
 ## English
 
-An English reference translation of README and AAAPS-v1 is available under [`en/`](./en/README.md). The Japanese documents in the repository root remain authoritative.
+English reference translations are available under [`en/`](./en/README.md), covering README, AAAPS-v1, GOVERNANCE, CHANGELOG, CREDITS, a HISTORY summary, and a brief evidence/ guide. The Japanese documents in the repository root remain authoritative.
 
 ---
 策定：基建吉（擬古猫）

@@ -12,11 +12,12 @@ Drawing on lessons from the 2005 "Nomaneko controversy" and the 2002 "Takara inc
 | File | Description |
 |---|---|
 | [AAAPS-v1.md](../AAAPS-v1.md) (JA) / [en/AAAPS-v1.md](./AAAPS-v1.md) | Main body: terms of use / license clauses |
-| [GOVERNANCE.md](../GOVERNANCE.md) (JA only) | Governance: publication venues, revision process |
-| [HISTORY.md](../HISTORY.md) (JA only) | Background: the Nomaneko controversy, the Takara incident, and the author's own involvement |
-| [CREDITS.md](../CREDITS.md) (JA only) | Acknowledgements |
-| [CHANGELOG.md](../CHANGELOG.md) (JA only) | Human-readable revision history |
-| [evidence/](../evidence/README.md) (JA only) | Supporting records relevant to prior use / public recognition |
+| [LICENSE.md](../LICENSE.md) (JA/EN) | GitHub license-detection entry point, pointing to AAAPS-v1.md |
+| [GOVERNANCE.md](../GOVERNANCE.md) (JA) / [en/GOVERNANCE.md](./GOVERNANCE.md) | Governance: publication venues, revision process, open issues |
+| [HISTORY.md](../HISTORY.md) (JA, authoritative) / [en/HISTORY.md](./HISTORY.md) (EN summary only) | Background: the Nomaneko controversy, the Takara incident, and the author's own involvement |
+| [CREDITS.md](../CREDITS.md) (JA) / [en/CREDITS.md](./CREDITS.md) | Acknowledgements |
+| [CHANGELOG.md](../CHANGELOG.md) (JA) / [en/CHANGELOG.md](./CHANGELOG.md) | Human-readable revision history |
+| [evidence/](../evidence/README.md) (JA, authoritative) / [en/evidence.md](./evidence.md) (EN brief guide) | Supporting records relevant to prior use / public recognition |
 
 ## About the names
 
