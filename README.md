@@ -1,33 +1,27 @@
-# AAAPS (AAAP Specification)
+# evidence / provenance
 
-「#AAAP」プロジェクトの仕様書・ライセンス・ガバナンス文書群です。
+本ディレクトリは、[AAAPS-v1.md](../AAAPS-v1.md) 第3条にいう「先使用・周知性等を検討する際の補強資料」を保管するための場所です。GitHubのコミット履歴が持つ改訂日時の外部検証可能性を活かし、Facebookコミュニティでの活動記録と組み合わせて用います。
 
-2005年の「のまネコ問題」、および2002年の「タカラ事件」の教訓を踏まえ、インターネット上で育まれてきた共有文化財（文字絵・アスキーアート等）が、特定の企業・団体によって独占されることを防ぐために策定されました。
+## 想定する保管対象
 
-## 構成
+- 2005年当時のネッツジャパン社とのメールのやり取り（原本・ヘッダ情報含む）
+- 2002年タカラ事件、2005年のまネコ問題の時系列記録
+- 擬古猫マグカップ等、初期グッズの制作・頒布記録（日付が確認できる資料）
+- [wikimedia.md](./wikimedia.md)：Wikimedia Commons／日本語版Wikipedia上に残る公開記録（削除議論を含む）の年表
+- [facebook.md](./facebook.md)：Facebookページの公開設定（非ログイン閲覧可否）の確認記録
+- [release.md](./release.md)：v1.0公開時（GitHub push・Wayback Machine・X・Facebook告知）の記録
+- [netts-japan-email.md](./netts-japan-email.md)：2005年のネッツジャパン社とのメールのやり取りの所在・経緯の記録（[全文はこちら](./netts-japan-email-full.md)）
+- [aaap-articles-draft.md](./aaap-articles-draft.md)：2005年当時の「アスキーアート保護協会（仮）」定款草案の記録（本家AAAPとは別団体である旨を明記、[全文はこちら](./aaap-articles-draft-full.md)）
+- [kindle-2020.md](./kindle-2020.md)：2020年Kindle本における「#AAAP Licensed」表記の継続利用の記録
+- [qptn-fc2.md](./qptn-fc2.md)：2013年、活動サイトqptn.x.fc2.comにおける「#AAAP」表記（アスキーアート）の記録
+- その他、対象コンテンツの初出日・出典を示す一次資料
 
-| ファイル | 内容 |
-|---|---|
-| [AAAPS-v1.md](./AAAPS-v1.md) | 本体：利用条件・ライセンス条項 |
-| [LICENSE.md](./LICENSE.md) | GitHub向け入口（AAAPS-v1.mdへの案内のみ） |
-| [GOVERNANCE.md](./GOVERNANCE.md) | 運営規約：公開場所・改訂手続き |
-| [HISTORY.md](./HISTORY.md) | 背景：のまネコ問題・タカラ事件・当事者としての経緯 |
-| [CREDITS.md](./CREDITS.md) | 策定協力への謝辞 |
-| [CHANGELOG.md](./CHANGELOG.md) | 改訂履歴（人間向け要約） |
-| [evidence/](./evidence/README.md) | 先使用・周知性等を検討する際の補強資料 |
+これらの資料は、先使用・周知性等を将来検討する際の補強資料・経緯を示すものであり、それ自体が法的評価を確定させるものではありません。
 
-## 名称について
+## 運用方針
 
-- **AAAP** … プロジェクト名
-- **#AAAP** … SNS（Facebook）上のコミュニティハッシュタグ
-- **AAAPS** … 本仕様書群の名称（AAAP Specification）
-
-詳細な設計原則・条文はすべて上記の各ファイルを正本とします。本READMEは要約と入口のみを示すものであり、内容の変更に伴って頻繁に書き換えるものではありません。
-
-## English
-
-English reference translations are available under [`en/`](./en/README.md), covering README, AAAPS-v1, GOVERNANCE, CHANGELOG, CREDITS, a HISTORY summary, and a brief evidence/ guide. The Japanese documents in the repository root remain authoritative.
+- 資料は可能な限り原本の形（スクリーンショット、ヘッダ情報等）で保管し、改変を加えません（「アーカイブは弄らない」の原則に準じます）。
+- リンク切れになった外部資料は、権利関係が明確なものに限り、発見次第このディレクトリに保全することを推奨します。
 
 ---
-策定：基建吉（擬古猫）
-最新改訂日：2026年7月11日
+最新改訂日：2026年7月7日
