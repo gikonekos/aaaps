@@ -33,7 +33,8 @@
 ## 資料
 
 - サイト：https://qptn.x.fc2.com/II/
-- スクリーンショット：[qptn-fc2/2026-07-12_qptn-fc2-manyoshu-aaap-ascii.png](./qptn-fc2/2026-07-12_qptn-fc2-manyoshu-aaap-ascii.png)
+- スクリーンショット（ブラウザ表示）：[qptn-fc2/2026-07-12_qptn-fc2-manyoshu-aaap-ascii.png](./qptn-fc2/2026-07-12_qptn-fc2-manyoshu-aaap-ascii.png)
+- スクリーンショット（秀丸／固定幅フォントでの正確な表示、UTF-8）：[qptn-fc2/2026-07-12_qptn-fc2-manyoshu-aaap-ascii-hidemaru.png](./qptn-fc2/2026-07-12_qptn-fc2-manyoshu-aaap-ascii-hidemaru.png)
 
 ---
 最新改訂日：2026年7月12日
