@@ -30,4 +30,4 @@ English reference translations are available under [`en/`](./en/README.md), cove
 
 ---
 策定：基建吉（擬古猫）
-最新改訂日：2026年7月7日
+最新改訂日：2026年7月11日
