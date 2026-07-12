@@ -41,7 +41,7 @@ If you redistribute or publish a derivative work created by modifying Covered Co
 
 ## Article 6 (Relationship to CC BY-SA, etc.)
 
-This specification is designed with reference to the spirit of open licenses such as Creative Commons BY-SA 4.0 and the GFDL, and with respect for ease of use alongside them. However, the formal legal relationship between this specification and CC BY-SA, etc. (including whether this specification could constitute an impermissible "additional restriction" under CC BY-SA) has not been conclusively determined as of this version, and remains an open issue to be revisited in light of professional advice.
+This specification is designed with reference to the spirit of open licenses such as [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) and the [GFDL](https://www.gnu.org/licenses/fdl-1.3.html), and with respect for ease of use alongside them. However, the formal legal relationship between this specification and CC BY-SA, etc. (including whether this specification could constitute an impermissible "additional restriction" under CC BY-SA) has not been conclusively determined as of this version, and remains an open issue to be revisited in light of professional advice.
 
 ## Article 7 (Reference Use and Use of the Project Names by Others)
 
@@ -55,6 +55,6 @@ This specification is designed with reference to the spirit of open licenses suc
 2. MOTOI Kenkichi and the "#AAAP" project make no warranty regarding the operability or completeness of the data, and accept no liability for any trouble arising from its use. Use is at the user's own risk.
 
 ---
-Version: v1
+Version: v1.1
 Author: MOTOI Kenkichi (Gikoneko)
-Last updated: 2026-07-07
+Last updated: 2026-07-12
