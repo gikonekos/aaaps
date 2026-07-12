@@ -4,12 +4,14 @@
 
 ## 想定する保管対象（未着手）
 
-- 2002年タカラ事件、2005年のまネコ問題の時系列記録
+（現時点で該当なし）
 
 ## 保管した資料
 
 - ✅ [netts-japan-email.md](./netts-japan-email.md)：2005年当時のネッツジャパン社とのメールのやり取り（原本・ヘッダ情報含む）の所在・経緯の記録（[全文はこちら](./netts-japan-email-full.md)）
 - ✅ [gikoneko-mug-2000.md](./gikoneko-mug-2000.md)：擬古猫マグカップ初版（2000年制作）の原稿ファイル（Illustratorデータ、CD-Rバックアップより発掘）と原本zipの保管記録
+- ✅ [takara-nomaneko.md](./takara-nomaneko.md)：2002年タカラ事件・2005年のまネコ問題の時系列記録
+- ✅ [strangewalker-gikoneko-2002.md](./strangewalker-gikoneko-2002.md)：タカラ事件当時の擬古猫本人書き込みの第三者による編集保存ページの所在・要約記録（heyuri.net保管の生ログへのリンク含む）
 - ✅ [wikimedia.md](./wikimedia.md)：Wikimedia Commons／日本語版Wikipedia上に残る公開記録（削除議論を含む）の年表
 - ✅ [facebook.md](./facebook.md)：Facebookページの公開設定（非ログイン閲覧可否）の確認記録
 - ✅ [release.md](./release.md)：v1.0公開時（GitHub push・Wayback Machine・X・Facebook告知）の記録
@@ -27,4 +29,4 @@
 - リンク切れになった外部資料は、権利関係が明確なものに限り、発見次第このディレクトリに保全することを推奨します。
 
 ---
-最新改訂日：2026年7月12日
+最新改訂日：2026年7月12日（2回目）
