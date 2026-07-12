@@ -20,7 +20,7 @@
 - <https://museum.heyuri.net/zantei/20020602.html>（2002年6月2日分、タカラ商標事件当時）
 - <https://museum.heyuri.net/zantei/20031112.html>（2003年11月12日分、擬古猫＝BUGSOFT関連の言及）
 
-上記2件は2026年7月12日時点でWayback Machineへのアーカイブが存在しなかったため、同日付でアーカイブ保存を申請済み。反映され次第、本ページにアーカイブ版リンクを追記する。
+上記2件は2026年7月12日時点でWayback Machineへのアーカイブが存在せず、保存申請を行ったが、heyuri.net自体がWayback Machineの対象から除外されている（"This URL is excluded from the Wayback Machine."）ため、アーカイブは反映されない見込み。heyuri.net以外の第三者バックアップが存在しない状態であることを踏まえ、扱いには留意する。
 
 heyuriのログ保管は後年になって行われた集約であり、当時「ログ商人」やあやしいわーるど検索、getlog.cgi等のスクリプトによって並行して流通・収集されていたログの全体を保証するものではない。当時存在したログの一部が欠落している可能性がある前提で扱う。
 
