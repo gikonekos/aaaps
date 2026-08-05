@@ -5,7 +5,7 @@
 
 This is the specification, license, and governance document set for the "#AAAP" project.
 
-Drawing on lessons from the 2005 "Nomaneko controversy" and the 2002 "Takara incident" in Japan, this project was created to prevent shared internet culture (character art, ASCII art, etc.) from being monopolized by a specific company or organization.
+Drawing on lessons from the 2005 "Nomaneko controversy" and the 2002 "Takara incident" in Japan, this project was created to prevent shared internet culture (text-based art / ASCII art (AA), etc.) from being monopolized by a specific company or organization.
 
 ## Contents
 
