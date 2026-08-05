@@ -7,9 +7,15 @@ This document sets out the terms of use / license clauses defined by the "#AAAP"
 
 > **This license may be revised as needed, in light of future operational experience and professional (legal) advice.** Points that remain undecided as of this version are listed under "Open Issues" in GOVERNANCE.md (Japanese only).
 
+
+> **Scope of this document (v1)**: This v1 is a **creator-specific** version limited to the works of MOTOI Kenkichi (Gikoneko / 擬古猫). It is not a generic template.
+>
+> **Note on v2**: A separate generic template version ([v2/AAAPS-v2.md](../v2/AAAPS-v2.md), currently DRAFT) has been created by generalizing the practical experience of this v1, so that other creators may adopt a similar structure for their own works. For the relationship between v1 and v2, see the Japanese documents.
+
+
 ## Article 1 (Purpose)
 
-This specification was created based on lessons learned from the 2002 "Takara incident" and the 2005 "Nomaneko controversy" in Japan. Both incidents involved works of character art and ASCII art — nurtured as shared cultural property on the Japanese internet — that came close to being made the subject of exclusive rights claims (including trademark registration) by a specific company or organization. These were not isolated events, but examples of a structural risk that can recur.
+This specification was created based on lessons learned from the 2002 "Takara incident" and the 2005 "Nomaneko controversy" in Japan. Both incidents involved works of text-based art / ASCII art (AA) — nurtured as shared cultural property on the Japanese internet — that came close to being made the subject of exclusive rights claims (including trademark registration) by a specific company or organization. These were not isolated events, but examples of a structural risk that can recur.
 
 Based on this lesson, this specification aims to permanently guarantee free secondary use of the Covered Content (defined below), while preventing the shared parts of the community's culture from being enclosed by any single party.
 
@@ -29,7 +35,7 @@ Based on this lesson, this specification aims to permanently guarantee free seco
 When using or modifying the Covered Content for redistribution or publication, please indicate, where reasonably possible, one or more of the following:
 
 * Name: Gikoneko (擬古猫)
-* Design: Designed by © 2005 MOTOYE Kenkichi
+* Design: Designed by © 2005 MOTOYE Kenkichi（MOTOI Kenkichi）
 * System / development imagery: (C) 2012 ZANTEI TECHNOLOGY / ZANTEI STYLE
 * Social-media identifying tag: #AAAP
 
@@ -57,4 +63,4 @@ This specification is designed with reference to the spirit of open licenses suc
 ---
 Version: v1.1
 Author: MOTOI Kenkichi (Gikoneko)
-Last updated: 2026-07-12
+Last updated: 2026-08-05 (links and notes updated; substantive content remains as of 2026-07-12)
