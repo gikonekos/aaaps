@@ -8,6 +8,7 @@
 - `GOVERNANCE.md` 内のリンクを新構成に合わせて修正（`./AAAPS-v1.md` → `./v1/AAAPS-v1.md`）。
 - README.md に正式名称 **AAAPS（Ascii Art Appropriation Protection Specification）** を明記し、構成表を更新。
 - `v2/AAAPS-v2.md` を改訂第二版として更新（AI相互レビュー反映：利用者利益＝自由の最大化の定義、宣言者の法的義務非課し、第8条の責任分界明確化など）。
+- `en/` 系ファイルのリンク修正（`../AAAPS-v1.md` → `../v1/AAAPS-v1.md`）、正式名称統一、v2 DRAFT への言及追加、日付更新。
 - CHANGELOG に本エントリを追加。
 
 ## v1.1（2026年7月12日）
