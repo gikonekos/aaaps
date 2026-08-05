@@ -6,13 +6,27 @@
 
 2005年の「のまネコ問題」、および2002年の「タカラ事件」の教訓を踏まえ、インターネット上で育まれてきた共有文化財（文字絵・アスキーアート等）が、特定の企業・団体によって独占されることを防ぐために策定されました。
 
+
+## クイックスタート
+
+| 目的 | 行き先 |
+|------|--------|
+| **v1（擬古猫専用）を読む** | [v1/AAAPS-v1.md](./v1/AAAPS-v1.md) |
+| **v2（汎用テンプレート・草案）を読む** | [v2/AAAPS-v2.md](./v2/AAAPS-v2.md) |
+| **背景・経緯** | [HISTORY.md](./HISTORY.md) |
+| **運営・未確定事項** | [GOVERNANCE.md](./GOVERNANCE.md) |
+| **English** | [en/README.md](./en/README.md) |
+
+作者プロフィール・他プロジェクト: [github.com/gikonekos](https://github.com/gikonekos)
+
+---
 ## 構成
 
 | ファイル | 内容 |
 |---|---|
 | [v1/AAAPS-v1.md](./v1/AAAPS-v1.md) | 本体v1：利用条件・ライセンス条項（擬古猫専用版） |
 | [v2/AAAPS-v2.md](./v2/AAAPS-v2.md) | 本体v2：汎用テンプレート版（草案） |
-| [LICENSE.md](./LICENSE.md) | GitHub向け入口（AAAPS-v1.mdへの案内のみ） |
+| [LICENSE.md](./LICENSE.md) | GitHub向け入口（v1/AAAPS-v1.md への案内のみ） |
 | [GOVERNANCE.md](./GOVERNANCE.md) | 運営規約：公開場所・改訂手続き |
 | [HISTORY.md](./HISTORY.md) | 背景：のまネコ問題・タカラ事件・当事者としての経緯 |
 | [CREDITS.md](./CREDITS.md) | 策定協力への謝辞 |
