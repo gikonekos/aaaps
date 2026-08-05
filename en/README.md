@@ -1,4 +1,4 @@
-# AAAPS (AAAP Specification)
+# AAAPS (Ascii Art Appropriation Protection Specification)
 
 > **This repository is maintained primarily in Japanese.**
 > The Japanese documents (in the repository root) are the authoritative versions. This English document is a reference translation provided for international readers and is not guaranteed to be complete or fully up to date with the Japanese original.
@@ -11,7 +11,8 @@ Drawing on lessons from the 2005 "Nomaneko controversy" and the 2002 "Takara inc
 
 | File | Description |
 |---|---|
-| [AAAPS-v1.md](../AAAPS-v1.md) (JA) / [en/AAAPS-v1.md](./AAAPS-v1.md) | Main body: terms of use / license clauses |
+| [v1/AAAPS-v1.md](../v1/AAAPS-v1.md) (JA) / [en/AAAPS-v1.md](./AAAPS-v1.md) | Main body: terms of use / license clauses |
+| [v2/AAAPS-v2.md](../v2/AAAPS-v2.md) (JA, DRAFT) | Main body v2: generic template version (draft) |
 | [LICENSE.md](../LICENSE.md) (JA/EN) | GitHub license-detection entry point, pointing to AAAPS-v1.md |
 | [GOVERNANCE.md](../GOVERNANCE.md) (JA) / [en/GOVERNANCE.md](./GOVERNANCE.md) | Governance: publication venues, revision process, open issues |
 | [HISTORY.md](../HISTORY.md) (JA, authoritative) / [en/HISTORY.md](./HISTORY.md) (EN summary only) | Background: the Nomaneko controversy, the Takara incident, and the author's own involvement |
@@ -23,10 +24,10 @@ Drawing on lessons from the 2005 "Nomaneko controversy" and the 2002 "Takara inc
 
 - **AAAP** … the project name
 - **#AAAP** … the community hashtag used on social media (Facebook)
-- **AAAPS** … the name of this specification document set (AAAP Specification)
+- **AAAPS** … the name of this specification document set (Ascii Art Appropriation Protection Specification)
 
 The Japanese-language files in the repository root are authoritative (the "canonical documents") for all design principles and clauses. This README is intended only as a summary and entry point, and is not updated frequently.
 
 ---
 Author: MOTOI Kenkichi (Gikoneko)
-Last updated: 2026-07-11
+Last updated: 2026-08-05
