@@ -2,6 +2,14 @@
 
 人間が読むための改訂履歴です。Gitのコミット履歴とは別に、「何が変わったか」を要約します。
 
+## 2026-08-05（リポジトリ再構成・v2草案更新）
+- ディレクトリ構成を整理：`v1/` および `v2/` フォルダを新設し、本体ファイルを移動。
+- `v1/AAAPS-v1.md` 内の相対リンクを修正（`./GOVERNANCE.md` → `../GOVERNANCE.md` 等）。
+- `GOVERNANCE.md` 内のリンクを新構成に合わせて修正（`./AAAPS-v1.md` → `./v1/AAAPS-v1.md`）。
+- README.md に正式名称 **AAAPS（Ascii Art Appropriation Protection Specification）** を明記し、構成表を更新。
+- `v2/AAAPS-v2.md` を改訂第二版として更新（AI相互レビュー反映：利用者利益＝自由の最大化の定義、宣言者の法的義務非課し、第8条の責任分界明確化など）。
+- CHANGELOG に本エントリを追加。
+
 ## v1.1（2026年7月12日）
 - Grokさんによるリポジトリ精査を受け、AAAPS-v1.md第6条にCreative Commons BY-SA 4.0・GFDLの公式ページへのリンクを追加。権利義務の内容に変更はないが、規範本体（AAAPS-v1.md）への変更のためマイナーバージョンとして扱う。
 - en/AAAPS-v1.mdにも同様のリンクを追加。
