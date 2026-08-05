@@ -1,7 +1,7 @@
 # AAAPS v1 (AAAP Specification)
 
 > **This repository is maintained primarily in Japanese.**
-> The Japanese-language version of this document ([AAAPS-v1.md](../AAAPS-v1.md)) is the authoritative text. This English document is a reference translation provided for international readers and is not guaranteed to be complete or fully up to date with the Japanese original. In case of any discrepancy, the Japanese text governs.
+> The Japanese-language version of this document ([v1/AAAPS-v1.md](../v1/AAAPS-v1.md)) is the authoritative text. This English document is a reference translation provided for international readers and is not guaranteed to be complete or fully up to date with the Japanese original. In case of any discrepancy, the Japanese text governs.
 
 This document sets out the terms of use / license clauses defined by the "#AAAP" project. For operational rules and the revision process, see GOVERNANCE.md (Japanese only). For background on why this project was created, see HISTORY.md (Japanese only).
 
