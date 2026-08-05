@@ -1,4 +1,6 @@
-# AAAPS (AAAP Specification)
+# AAAPS (Ascii Art Appropriation Protection Specification)
+
+**AAAPS** とは **Ascii Art Appropriation Protection Specification**（アスキーアート流用防止仕様）の略称です。
 
 「#AAAP」プロジェクトの仕様書・ライセンス・ガバナンス文書群です。
 
@@ -8,7 +10,8 @@
 
 | ファイル | 内容 |
 |---|---|
-| [AAAPS-v1.md](./AAAPS-v1.md) | 本体：利用条件・ライセンス条項 |
+| [v1/AAAPS-v1.md](./v1/AAAPS-v1.md) | 本体v1：利用条件・ライセンス条項（擬古猫専用版） |
+| [v2/AAAPS-v2.md](./v2/AAAPS-v2.md) | 本体v2：汎用テンプレート版（草案） |
 | [LICENSE.md](./LICENSE.md) | GitHub向け入口（AAAPS-v1.mdへの案内のみ） |
 | [GOVERNANCE.md](./GOVERNANCE.md) | 運営規約：公開場所・改訂手続き |
 | [HISTORY.md](./HISTORY.md) | 背景：のまネコ問題・タカラ事件・当事者としての経緯 |
@@ -20,7 +23,7 @@
 
 - **AAAP** … プロジェクト名
 - **#AAAP** … SNS（Facebook）上のコミュニティハッシュタグ
-- **AAAPS** … 本仕様書群の名称（AAAP Specification）
+- **AAAPS** … 本仕様書群の名称（Ascii Art Appropriation Protection Specification）
 
 詳細な設計原則・条文はすべて上記の各ファイルを正本とします。本READMEは要約と入口のみを示すものであり、内容の変更に伴って頻繁に書き換えるものではありません。
 
@@ -30,4 +33,4 @@ English reference translations are available under [`en/`](./en/README.md), cove
 
 ---
 策定：基建吉（擬古猫）
-最新改訂日：2026年7月12日
+最新改訂日：2026年8月5日
