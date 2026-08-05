@@ -3,7 +3,7 @@
 > **This repository is maintained primarily in Japanese.**
 > The Japanese document ([GOVERNANCE.md](../GOVERNANCE.md)) is the authoritative text. This English document is a reference translation provided for international readers and may not always be fully up to date with the Japanese original.
 
-This document defines how the "#AAAP" project is operated and published. For the license terms themselves, see [AAAPS-v1.md](../AAAPS-v1.md) (Japanese) / [en/AAAPS-v1.md](./AAAPS-v1.md) (English reference translation).
+This document defines how the "#AAAP" project is operated and published. For the license terms themselves, see [v1/AAAPS-v1.md](../v1/AAAPS-v1.md) (Japanese) / [en/AAAPS-v1.md](./AAAPS-v1.md) (English reference translation).
 
 ## Division of roles between publication venues
 
@@ -22,7 +22,7 @@ This project drew on review from multiple generative AI systems as part of its d
 
 1. Proposed revisions are raised as Issues or Pull Requests on GitHub.
 2. Final adoption is decided by MOTOI Kenkichi (Gikoneko).
-3. Once a version is finalized, it is given a version number in the filename (e.g. `AAAPS-v1.md`), and older versions are retained rather than deleted.
+3. Once a version is finalized, it is given a version number in the filename (e.g. `v1/AAAPS-v1.md`), and older versions are retained rather than deleted.
 
 ## Open issues
 
@@ -35,7 +35,7 @@ Because these go to the core of the license, they are not settled by AI review a
 
 ## Disclaimer
 
-This governance document defines operational procedures; it does not define the rights and obligations of users. For rights and obligations, [AAAPS-v1.md](../AAAPS-v1.md) governs.
+This governance document defines operational procedures; it does not define the rights and obligations of users. For rights and obligations, [v1/AAAPS-v1.md](../v1/AAAPS-v1.md) governs.
 
 ---
-Last updated: 2026-07-11
+Last updated: 2026-08-05
