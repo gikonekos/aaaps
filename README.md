@@ -12,7 +12,7 @@
 | 目的 | 行き先 |
 |------|--------|
 | **v1（擬古猫専用）を読む** | [v1/AAAPS-v1.md](./v1/AAAPS-v1.md) |
-| **v2（汎用テンプレート・草案）を読む** | [v2/AAAPS-v2.md](./v2/AAAPS-v2.md) |
+| **v2（汎用テンプレート）を読む** | [v2/AAAPS-v2.md](./v2/AAAPS-v2.md) |
 | **背景・経緯** | [HISTORY.md](./HISTORY.md) |
 | **運営・未確定事項** | [GOVERNANCE.md](./GOVERNANCE.md) |
 | **English** | [en/README.md](./en/README.md) |
@@ -47,4 +47,4 @@ English reference translations are available under [`en/`](./en/README.md), cove
 
 ---
 策定：基建吉（擬古猫）
-最新改訂日：2026年8月5日
+最新改訂日：2026年9月10日（AAAPS v2.0 正式リリース）
